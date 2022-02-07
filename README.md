@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @RRoxza
+- 👀 My favorite language is nuxt.js
+- 🌱 I'm learning vue right now I want...
+- 📫 How to reach me on discord.(Roxza#0002)
